@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "version": "2.0.0",
+    "updated_at": "2026-09-11",
+    "owner": "Rafael Barros",
+    "source_of_truth": "data.json"
+  },
+  "kpis": {
+    "total_applications": 3,
+    "ready_to_apply": 1,
+    "analyzing": 1,
+    "withdrawn": 1,
+    "interviews": 0,
+    "offers": 0
+  },
+  "applications": [
+    {
+      "id": "app-causa-certa-2026",
+      "company": "CAUSA CERTA LTDA",
+      "role": "Analista Administrativo de Vendas",
+      "url": "https://vagas.solides.com.br/vaga/915050",
+      "discovery_date": "2026-09-10",
+      "status": "READY_TO_APPLY",
+      "fit_score": 85,
+      "location": "São José/SC",
+      "modality": "Remoto (CLT)",
+      "salary": "R$ 2.627 CLT",
+      "senioridade": "Pleno / Júnior",
+      "next_action": "Aplicar com currículo v2 gerado (.pdf e .docx)",
+      "requirements": [
+        "Organização e comunicação",
+        "Rotinas administrativas",
+        "Planilhas e sistemas",
+        "Experiência admin/comercial/atendimento"
+      ],
+      "gaps": [
+        "Sem vivência no setor jurídico (não exigido)"
+      ],
+      "documents": [
+        "resumes/generated/Rafa_Nascimento_Curriculo_CausaCerta_AnalistaAdmVendas_V2.docx",
+        "resumes/generated/Rafa_Nascimento_Curriculo_CausaCerta_AnalistaAdmVendas_V2.pdf",
+        "resumes/generated/spec-admvendas-causacerta-v2.json"
+      ],
+      "notes": "Requisitos atendidos. Pronto para envio imediato."
+    },
+    {
+      "id": "app-vhl-sistemas-2026",
+      "company": "VHL Sistemas (Valsoft Corp)",
+      "role": "Sales Consultant (Consultor de Vendas Pleno)",
+      "url": "https://apply.workable.com/valsoft-corp/j/B34C309BA4",
+      "discovery_date": "2026-09-09",
+      "status": "ANALYZING",
+      "fit_score": 78,
+      "location": "Home Office / Viagens",
+      "modality": "Home Office (viagens)",
+      "salary": "Salário fixo + comissão e bonificação trimestral",
+      "senioridade": "Pleno",
+      "next_action": "Aguardar base + currículo de vendas B2B",
+      "requirements": [
+        "Prospecção ativa B2B",
+        "Disponibilidade para viagens",
+        "CNH B",
+        "Uso de CRM",
+        "Formação em andamento (Adm 3 anos + ADS)"
+      ],
+      "gaps": [
+        "Venda de software/SaaS como produto (parcial)",
+        "Experiência com rotinas de cartório (diferencial)"
+      ],
+      "documents": [
+        "EXPERIENCE.md",
+        "SKILLS.md"
+      ],
+      "notes": "Aguardando estruturação do currículo B2B específico."
+    },
+    {
+      "id": "app-franquias-2026",
+      "company": "Rede de franquias em expansão (Tatiani Rodrigues RH)",
+      "role": "Customer Success (franqueados)",
+      "url": "https://vagas.solides.com.br/vaga/913010",
+      "discovery_date": "2026-09-10",
+      "status": "WITHDRAWN",
+      "fit_score": 70,
+      "location": "Campeche, Florianópolis/SC",
+      "modality": "Presencial (PJ)",
+      "salary": "R$ 4.500 PJ",
+      "senioridade": "Pleno",
+      "next_action": "Branding e estratégia com Rafael antes de retomar",
+      "requirements": [
+        "B2B",
+        "Indicadores e processos",
+        "Comunicação"
+      ],
+      "gaps": [
+        "Sem experiência prévia em franquias",
+        "Sem título formal de CS",
+        "Deslocamento Nova Palhoça ➔ Campeche",
+        "Formação incompleta"
+      ],
+      "documents": [
+        "PROFILE.md"
+      ],
+      "notes": "Retirado temporariamente para alinhamento estratégico."
+    }
+  ],
+  "documents_index": [
+    {
+      "name": "PROFILE.md",
+      "category": "Master",
+      "description": "Perfil profissional e dados centrais de Rafael Barros"
+    },
+    {
+      "name": "EXPERIENCE.md",
+      "category": "Master",
+      "description": "Histórico profissional detalhado (LojaCond, Flex, etc.)"
+    },
+    {
+      "name": "SKILLS.md",
+      "category": "Master",
+      "description": "Matriz de competências técnicas e comportamentais"
+    },
+    {
+      "name": "RULES.md",
+      "category": "Governance",
+      "description": "Regras de integridade, fatos vs hipóteses e sincronização"
+    },
+    {
+      "name": "applications/tracker.md",
+      "category": "Tracking",
+      "description": "Tracker markdown tradicional de candidaturas"
+    },
+    {
+      "name": "resumes/generated/Rafa_Nascimento_Curriculo_CausaCerta_AnalistaAdmVendas_V2.docx",
+      "category": "Resumes",
+      "description": "Currículo ATS otimizado para Causa Certa (Word)"
+    },
+    {
+      "name": "resumes/generated/Rafa_Nascimento_Curriculo_CausaCerta_AnalistaAdmVendas_V2.pdf",
+      "category": "Resumes",
+      "description": "Currículo ATS otimizado para Causa Certa (PDF)"
+    },
+    {
+      "name": "linkedin/DIAGNOSTICO-2026-09-10.md",
+      "category": "Audit",
+      "description": "Diagnóstico e baseline do perfil LinkedIn"
+    },
+    {
+      "name": "research/relatorio-estrategia-2026.md",
+      "category": "Research",
+      "description": "Relatório de estratégia de carreira e posicionamento"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Curriculo - Caio Rafael Barros do Nascimento - E-commerce e Operacoes",
+  "author": "Hermes Career Agent",
+  "page_size": "A4",
+  "page_numbers": false,
+  "elements": [
+    {"type": "heading", "text": "CAIO RAFAEL BARROS DO NASCIMENTO", "level": 1},
+    {"type": "paragraph", "text": "<b>Gestor de E-commerce e Operações Digitais | Marketplaces | Logística e Automação</b>"},
+    {"type": "paragraph", "text": "Nova Palhoça — Palhoça/SC | (48) 99153-2952 | cr_bn20@hotmail.com | linkedin.com/in/rafael-brasiliae | github.com/catcaio/projeto-condstore"},
+    {"type": "paragraph", "text": "Disponibilidade: 100% home office ou presencial (Grande Florianópolis) | Viagens: disponível quando necessário"},
+
+    {"type": "heading", "text": "RESUMO PROFISSIONAL", "level": 2},
+    {"type": "paragraph", "text": "Gestor de e-commerce com mais de 5 anos de atuação em operação digital multicanal (loja própria e Mercado Livre), logística, atendimento B2B e melhoria de processos. Evoluiu de rotinas administrativas para a gestão estratégica de uma operação com cerca de 2 mil SKUs e base de 7 mil clientes, integrando comercial, tecnologia, marketing, atendimento e logística. Perfil analítico e executor, orientado a conversão, eficiência operacional e crescimento sustentável."},
+
+    {"type": "heading", "text": "COMPETÊNCIAS-CHAVE", "level": 2},
+    {"type": "paragraph", "text": "• E-commerce e marketplaces: gestão de loja virtual, Mercado Livre (loja oficial, reputação e anúncios), catálogo, SEO de anúncios e precificação"},
+    {"type": "paragraph", "text": "• Operações: fluxo completo do pedido (venda → faturamento → expedição → entrega → pós-venda), integração com ERP, estoque, frete e canais de atendimento"},
+    {"type": "paragraph", "text": "• Dados e performance: KPIs de e-commerce, análise de comportamento do cliente, conversão e melhoria de processos"},
+    {"type": "paragraph", "text": "• Comercial B2B: prospecção, negociação, contratos com transportadoras e gestão de relacionamento via CRM"},
+    {"type": "paragraph", "text": "• Ferramentas: WordPress/WooCommerce, Olist/Tiny, Google Ads, e-mail marketing, WhatsApp Business, planilhas e IA aplicada"},
+
+    {"type": "heading", "text": "EXPERIÊNCIA PROFISSIONAL", "level": 2},
+    {"type": "heading", "text": "LOJACOND (Store / Equipamentos) — Palhoça/SC | Mar/2021 – Abr/2026", "level": 3},
+    {"type": "heading", "text": "Gestor de E-commerce e Operações Digitais | Dez/2022 – Abr/2026", "level": 3},
+    {"type": "paragraph", "text": "• Gestão integrada da operação digital (loja online, Mercado Livre e demais canais), acompanhando vendas, catálogo, pedidos, estoque, preços, anúncios e indicadores de desempenho"},
+    {"type": "paragraph", "text": "• Administração de aproximadamente 2 mil SKUs e base de 7 mil clientes, garantindo consistência das informações comerciais e operacionais"},
+    {"type": "paragraph", "text": "• Estruturação e otimização de anúncios (títulos, descrições, atributos, imagens, categorização e SEO) e gestão da loja oficial no Mercado Livre (reputação, desempenho e experiência de compra)"},
+    {"type": "paragraph", "text": "• Integração entre e-commerce, ERP, pagamentos, frete, estoque e canais de atendimento, reduzindo processos manuais e aumentando a autonomia do cliente"},
+    {"type": "paragraph", "text": "• Estruturação de processos para expansão nacional, conectando a operação digital à logística e à capacidade de atendimento"},
+    {"type": "paragraph", "text": "• Análise de dados e comportamento de clientes para identificar oportunidades de conversão, vendas e eficiência; participação na evolução do faturamento mensal de cerca de R$ 300 mil para próximo de R$ 800 mil"},
+
+    {"type": "heading", "text": "Assistente Administrativo e Comercial | Mar/2021 – Dez/2022", "level": 3},
+    {"type": "paragraph", "text": "• Ingresso como estagiário (graduação em Administração), efetivado em CLT após 3 meses; atuação direta com gerência e direção"},
+    {"type": "paragraph", "text": "• Estruturação e digitalização dos processos de atendimento, orçamento e vendas B2B, integrando WhatsApp, e-mail, telefone, site e canais digitais; migração de processos para Olist/Tiny"},
+    {"type": "paragraph", "text": "• Prospecção, negociação e desenvolvimento comercial B2B (condomínios, empresas privadas e órgãos públicos) e negociação de contratos e tabelas com transportadoras (operação logística com cobertura nacional)"},
+    {"type": "paragraph", "text": "• Treinamento de colaboradores em atendimento, logística, plataformas e processos operacionais"},
+
+    {"type": "heading", "text": "FLEX CONTACT CENTER — Florianópolis/SC | Fev/2018 – Dez/2020", "level": 3},
+    {"type": "paragraph", "text": "• Agente de Retenção B2B: atendimento a clientes empresariais, retenção ante risco de cancelamento, negociação orientada por metas, escuta ativa e contorno de objeções (pacote Claro NET)"},
+
+    {"type": "heading", "text": "MG VIDROS — AUTO GLASS | 2013 – 2014", "level": 3},
+    {"type": "paragraph", "text": "• Auxiliar de Vendedor Técnico / Jovem Aprendiz: atendimento, elaboração de orçamentos e apoio à venda técnica no setor automotivo"},
+
+    {"type": "heading", "text": "PROJETO", "level": 2},
+    {"type": "paragraph", "text": "• CONDSTORE OS — Automação comercial e e-commerce: projeto autoral para organização de atendimento, cotações, pedidos, CRM e fluxos comerciais digitais, com aplicação de automação e IA (github.com/catcaio/projeto-condstore)"},
+
+    {"type": "heading", "text": "FORMAÇÃO", "level": 2},
+    {"type": "paragraph", "text": "• Análise e Desenvolvimento de Sistemas — UNISUL (cursando, conclusão prevista 2027)"},
+    {"type": "paragraph", "text": "• Administração — 3 anos cursados"},
+    {"type": "paragraph", "text": "• Assistente Administrativo — S.O.S Educação Profissional (2012, 18 meses)"},
+    {"type": "paragraph", "text": "• Ensino Médio — completo"},
+
+    {"type": "heading", "text": "IDIOMAS", "level": 2},
+    {"type": "paragraph", "text": "• Português nativo | Inglês avançado"}
+  ]
+}

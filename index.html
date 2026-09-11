@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career & Applications Hub — Rafael Barros</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        dark: {
+                            bg: '#090d16',
+                            card: '#111827',
+                            border: '#1f2937',
+                            accent: '#6366f1'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-dark-bg text-gray-100 font-sans min-h-screen flex flex-col antialiased">
+    <!-- Header -->
+    <header class="border-b border-dark-border bg-dark-card/80 backdrop-blur sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-3">
+                <div class="w-10 h-10 rounded-xl bg-indigo-600 flex items-center justify-center font-bold text-white shadow-lg shadow-indigo-500/30">
+                    RB
+                </div>
+                <div>
+                    <h1 class="text-lg font-bold text-white tracking-tight">Career & Applications Hub</h1>
+                    <p class="text-xs text-gray-400">Rafael Barros • GitHub Central v2026</p>
+                </div>
+            </div>
+            <div class="flex items-center space-x-3">
+                <span class="px-3 py-1 text-xs font-medium bg-emerald-500/10 text-emerald-400 rounded-full border border-emerald-500/20 flex items-center gap-1.5">
+                    <span class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span> Git Versioned & Synced
+                </span>
+                <a href="https://github.com/catcaio/career" target="_blank" class="px-3 py-1.5 bg-gray-800 hover:bg-gray-700 text-gray-200 rounded-lg text-xs font-medium transition border border-dark-border flex items-center gap-2">
+                    <i class="fab fa-github"><span>Repositório</span></i>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
+        
+        <!-- KPI Overview Cards -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div class="bg-dark-card border border-dark-border rounded-2xl p-5 shadow-sm">
+                <div class="flex items-center justify-between">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Total Candidaturas</span>
+                    <i class="fas fa-briefcase text-indigo-400 bg-indigo-500/10 p-2.5 rounded-xl"></i>
+                </div>
+                <div class="mt-4 flex items-baseline justify-between">
+                    <span class="text-3xl font-bold text-white">3</span>
+                    <span class="text-xs text-emerald-400 font-medium">Ativo no sistema</span>
+                </div>
+            </div>
+            
+            <div class="bg-dark-card border border-dark-border rounded-2xl p-5 shadow-sm">
+                <div class="flex items-center justify-between">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Pronto para Aplicar</span>
+                    <i class="fas fa-paper-plane text-emerald-400 bg-emerald-500/10 p-2.5 rounded-xl"></i>
+                </div>
+                <div class="mt-4 flex items-baseline justify-between">
+                    <span class="text-3xl font-bold text-white">1</span>
+                    <span class="text-xs text-emerald-400 font-medium">Causa Certa</span>
+                </div>
+            </div>
+
+            <div class="bg-dark-card border border-dark-border rounded-2xl p-5 shadow-sm">
+                <div class="flex items-center justify-between">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Em Análise / Alinhamento</span>
+                    <i class="fas fa-search-dollar text-amber-400 bg-amber-500/10 p-2.5 rounded-xl"></i>
+                </div>
+                <div class="mt-4 flex items-baseline justify-between">
+                    <span class="text-3xl font-bold text-white">1</span>
+                    <span class="text-xs text-amber-400 font-medium">VHL Sistemas</span>
+                </div>
+            </div>
+
+            <div class="bg-dark-card border border-dark-border rounded-2xl p-5 shadow-sm">
+                <div class="flex items-center justify-between">
+                    <span class="text-xs font-semibold text-gray-400 uppercase tracking-wider">Documentos Base</span>
+                    <i class="fas fa-folder-open text-blue-400 bg-blue-500/10 p-2.5 rounded-xl"></i>
+                </div>
+                <div class="mt-4 flex items-baseline justify-between">
+                    <span class="text-3xl font-bold text-white">12+</span>
+                    <span class="text-xs text-blue-400 font-medium">Versionados no Git</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Applications Tracker Section -->
+        <section class="bg-dark-card border border-dark-border rounded-2xl overflow-hidden shadow-sm">
+            <div class="p-6 border-b border-dark-border flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+                <div>
+                    <h2 class="text-lg font-bold text-white flex items-center gap-2">
+                        <i class="fas fa-clipboard-list text-indigo-400"></i> Acompanhamento de Candidaturas (Tracker)
+                    </h2>
+                    <p class="text-xs text-gray-400 mt-0.5">Central de vagas monitoradas, status, fit de competências e próximas ações.</p>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="text-xs bg-gray-800 text-gray-300 px-3 py-1.5 rounded-lg border border-dark-border">Atualizado em: Set 2026</span>
+                </div>
+            </div>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="border-b border-dark-border bg-gray-900/50 text-xs font-semibold text-gray-400 uppercase tracking-wider">
+                            <th class="py-3.5 px-6">Empresa / Cargo</th>
+                            <th class="py-3.5 px-6">Status</th>
+                            <th class="py-3.5 px-6">Fit / Local</th>
+                            <th class="py-3.5 px-6">Salário / Remuneração</th>
+                            <th class="py-3.5 px-6">Próxima Ação / Observações</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-dark-border text-sm">
+                        <!-- Causa Certa -->
+                        <tr class="hover:bg-gray-800/40 transition">
+                            <td class="py-4 px-6">
+                                <div class="font-semibold text-white">CAUSA CERTA LTDA</div>
+                                <div class="text-xs text-indigo-400">Analista Administrativo de Vendas</div>
+                                <a href="https://vagas.solides.com.br/vaga/915050" target="_blank" class="text-xs text-gray-400 hover:underline flex items-center gap-1 mt-0.5">
+                                    <i class="fas fa-external-link-alt text-[10px]"></i> Ver Vaga (Solidus)
+                                </a>
+                            </td>
+                            <td class="py-4 px-6">
+                                <span class="px-2.5 py-1 text-xs font-semibold bg-emerald-500/10 text-emerald-400 rounded-full border border-emerald-500/20">READY_TO_APPLY</span>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs font-medium text-emerald-300">~85% Fit</div>
+                                <div class="text-xs text-gray-400">Remoto (São José/SC)</div>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs font-medium text-gray-200">R$ 2.627 CLT</div>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs text-gray-300 font-medium">Aplicar com currículo v2 gerado (.pdf e .docx)</div>
+                                <div class="text-xs text-gray-400 mt-0.5">Requisitos atendidos: rotinas admin, planilhas, atendimento.</div>
+                            </td>
+                        </tr>
+
+                        <!-- VHL Sistemas -->
+                        <tr class="hover:bg-gray-800/40 transition">
+                            <td class="py-4 px-6">
+                                <div class="font-semibold text-white">VHL Sistemas (Valsoft Corp)</div>
+                                <div class="text-xs text-indigo-400">Sales Consultant (Pleno)</div>
+                                <a href="https://apply.workable.com/valsoft-corp/j/B34C309BA4" target="_blank" class="text-xs text-gray-400 hover:underline flex items-center gap-1 mt-0.5">
+                                    <i class="fas fa-external-link-alt text-[10px]"></i> Ver Vaga (Workable)
+                                </a>
+                            </td>
+                            <td class="py-4 px-6">
+                                <span class="px-2.5 py-1 text-xs font-semibold bg-amber-500/10 text-amber-400 rounded-full border border-amber-500/20">ANALYZING</span>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs font-medium text-amber-300">78% Fit</div>
+                                <div class="text-xs text-gray-400">Home Office / Viagens</div>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs font-medium text-gray-200">Fixo + Comissão / Bônus</div>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs text-gray-300 font-medium">Aguardar base + currículo B2B</div>
+                                <div class="text-xs text-gray-400 mt-0.5">Lacunas: venda SaaS como produto (parcial), CNH B ok.</div>
+                            </td>
+                        </tr>
+
+                        <!-- Rede de Franquias -->
+                        <tr class="hover:bg-gray-800/40 transition opacity-75">
+                            <td class="py-4 px-6">
+                                <div class="font-semibold text-white">Rede de Franquias (Tatiani RH)</div>
+                                <div class="text-xs text-indigo-400">Customer Success (Franqueados)</div>
+                                <a href="https://vagas.solides.com.br/vaga/913010" target="_blank" class="text-xs text-gray-400 hover:underline flex items-center gap-1 mt-0.5">
+                                    <i class="fas fa-external-link-alt text-[10px]"></i> Ver Vaga (Solides)
+                                </a>
+                            </td>
+                            <td class="py-4 px-6">
+                                <span class="px-2.5 py-1 text-xs font-semibold bg-rose-500/10 text-rose-400 rounded-full border border-rose-500/20">WITHDRAWN</span>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs font-medium text-gray-400">~70% Fit</div>
+                                <div class="text-xs text-gray-400">Campeche, Florianópolis (Presencial PJ)</div>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs font-medium text-gray-200">R$ 4.500 PJ</div>
+                            </td>
+                            <td class="py-4 px-6">
+                                <div class="text-xs text-gray-300 font-medium">Branding e estratégia com Rafael antes do currículo</div>
+                                <div class="text-xs text-gray-400 mt-0.5">Deslocamento e ausência de exp. em franquias.</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- Knowledge Base / Document Repository Grid -->
+        <section class="space-y-4">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h2 class="text-lg font-bold text-white flex items-center gap-2">
+                        <i class="fas fa-book-bookmark text-indigo-400"></i> Base de Conhecimento e Documentos
+                    </h2>
+                    <p class="text-xs text-gray-400">Estrutura centralizada versionada no Git e mantida por Hermes.</p>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <!-- Master Profiles & Rules -->
+                <div class="bg-dark-card border border-dark-border rounded-2xl p-5 space-y-3">
+                    <div class="flex items-center gap-3">
+                        <div class="p-2.5 bg-indigo-500/10 text-indigo-400 rounded-xl">
+                            <i class="fas fa-id-card"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-white text-sm">Perfil & Regras Mestra</h3>
+                            <p class="text-xs text-gray-400">Identidade, regras e diretrizes</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-xs text-gray-300 pt-2 border-t border-dark-border">
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-file-alt text-gray-500"></i> PROFILE.md</span>
+                            <span class="text-[10px] bg-gray-800 px-2 py-0.5 rounded text-gray-400">Ativo</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-file-alt text-gray-500"></i> EXPERIENCE.md</span>
+                            <span class="text-[10px] bg-gray-800 px-2 py-0.5 rounded text-gray-400">Ativo</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-file-alt text-gray-500"></i> SKILLS.md</span>
+                            <span class="text-[10px] bg-gray-800 px-2 py-0.5 rounded text-gray-400">Ativo</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-file-alt text-gray-500"></i> RULES.md</span>
+                            <span class="text-[10px] bg-gray-800 px-2 py-0.5 rounded text-gray-400">Ativo</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Resumes & Generated Files -->
+                <div class="bg-dark-card border border-dark-border rounded-2xl p-5 space-y-3">
+                    <div class="flex items-center gap-3">
+                        <div class="p-2.5 bg-emerald-500/10 text-emerald-400 rounded-xl">
+                            <i class="fas fa-file-pdf"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-white text-sm">Currículos Gerados (ATS)</h3>
+                            <p class="text-xs text-gray-400">PDFs, Word e Specs JSON</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-xs text-gray-300 pt-2 border-t border-dark-border">
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2 truncate max-w-[200px]"><i class="fas fa-file-word text-blue-400"></i> CausaCerta_AnalistaAdmVendas_v2.docx</span>
+                            <span class="text-[10px] bg-emerald-500/10 text-emerald-400 px-2 py-0.5 rounded">Pronto</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2 truncate max-w-[200px]"><i class="fas fa-file-pdf text-rose-400"></i> CausaCerta_AnalistaAdmVendas_v2.pdf</span>
+                            <span class="text-[10px] bg-emerald-500/10 text-emerald-400 px-2 py-0.5 rounded">Pronto</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-code text-amber-400"></i> spec-admvendas-v2.json</span>
+                            <span class="text-[10px] bg-gray-800 px-2 py-0.5 rounded text-gray-400">Spec</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- LinkedIn & Research -->
+                <div class="bg-dark-card border border-dark-border rounded-2xl p-5 space-y-3">
+                    <div class="flex items-center gap-3">
+                        <div class="p-2.5 bg-blue-500/10 text-blue-400 rounded-xl">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div>
+                            <h3 class="font-semibold text-white text-sm">LinkedIn & Estratégia</h3>
+                            <p class="text-xs text-gray-400">Baseline, Diagnóstico & Perplexity</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-xs text-gray-300 pt-2 border-t border-dark-border">
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-globe text-blue-400"></i> LI-BASELINE-2026-09-10.md</span>
+                            <span class="text-[10px] bg-blue-500/10 text-blue-400 px-2 py-0.5 rounded">Social</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-stethoscope text-emerald-400"></i> DIAGNOSTICO-2026-09-10.md</span>
+                            <span class="text-[10px] bg-blue-500/10 text-blue-400 px-2 py-0.5 rounded">Audit</span>
+                        </li>
+                        <li class="flex items-center justify-between hover:text-indigo-400 transition">
+                            <span class="flex items-center gap-2"><i class="fas fa-brain text-purple-400"></i> relatorio-estrategia-2026.md</span>
+                            <span class="text-[10px] bg-purple-500/10 text-purple-400 px-2 py-0.5 rounded">Research</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-dark-border bg-dark-card/50 py-6 mt-12 text-center text-xs text-gray-500">
+        <p>Rafael Barros Career System • Mantido autonomamente por <span class="text-indigo-400 font-medium">Hermes Agent</span> • Versionado via Git & GitHub</p>
+    </footer>
+</body>
+</html>

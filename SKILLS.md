@@ -9,7 +9,8 @@
 - RD Station — CRM utilizado nos processos de relacionamento e comunicação
 - Licitações eletrônicas e pregões — participação em nome da empresa, incluindo negociação com fornecedores
 - E-mail marketing
-- Google Ads, Google Analytics/Tags
+- Google Ads
+- Google Merchant Center / Google Search — operação e configuração em contexto de e-commerce
 - Marketplaces
 - CRM e WhatsApp Business
 - SEO de anúncios (títulos, atributos, categorização)
@@ -43,7 +44,6 @@
 ## Setores com vivência
 - Automotivo (MG Vidros — venda técnica; LojaCond)
 - E-commerce e operações digitais
-- Contato com setor de cartórios/condomínios via atendimento a condomínios/síndicos/administradoras (LojaCond) — INFERÊNCIA: pode ser usado como ponte para mercado cartorário, validar
 
 ## Diferenciais
 - Perfil híbrido operação + tecnologia (raro em perfis só comerciais ou só técnicos)

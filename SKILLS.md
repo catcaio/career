@@ -1,14 +1,18 @@
 # SKILLS.md — Competências e Conhecimentos
 
-## Ferramentas e sistemas (fatos dos currículos + fonte mestra 2026-09-09)
+## Ferramentas e sistemas (fatos confirmados pelo Rafael)
 - WordPress / WooCommerce
-- **Mercado Livre (loja oficial, reputação, anúncios)**
-- **Olist/Tiny (migração de ERP/processos)**
-- Google Ads, Google Analytics/Tags
+- Loja Integrada — experiência de 1 ano e liderança da migração de site catálogo/orçamento para e-commerce transacional
+- Mercado Livre (loja oficial, reputação, anúncios)
+- LINVIX — ERP da Tecmater Master; 3 anos de uso na operação administrativa e logística
+- Olist/Tiny — migração de processos a partir do LINVIX
+- RD Station — CRM utilizado nos processos de relacionamento e comunicação
+- Licitações eletrônicas e pregões — participação em nome da empresa, incluindo negociação com fornecedores
 - E-mail marketing
+- Google Ads, Google Analytics/Tags
 - Marketplaces
 - CRM e WhatsApp Business
-- **SEO de anúncios (títulos, atributos, categorização)**
+- SEO de anúncios (títulos, atributos, categorização)
 - Pacote Office, Google Drive/Planilhas
 - E-commerce e catálogos digitais
 - IA aplicada à operação
@@ -19,10 +23,15 @@
 - Condstore OS: automação comercial com WhatsApp, e-commerce, banco de dados, indicadores, automação e IA (projeto autoral)
 
 ## Conhecimentos de negócio
+- Rotinas administrativas de escritório e suporte operacional
+- Logística de compras e suprimentos
+- Gestão de fretes e acompanhamento fábrica → entrega final
+- Incoterms CIF e FOB
+- Contratos, tabelas e condições comerciais com transportadoras
 - Operação digital e comercial fim-a-fim (produto → anúncio → atendimento → pedido → entrega)
 - Atendimento B2B e relacionamento com clientes corporativos
-- Logística, frete, cálculo de frete, rastreabilidade
-- Rotinas administrativas e comerciais; apoio a financeiro, compras, estoque, despacho
+- Cálculo de frete e rastreabilidade
+- Rotinas administrativas e comerciais; apoio a financeiro, compras, estoque, despacho e entrega
 - Análise de gargalos, melhoria de processos, KPIs e indicadores
 
 ## Competências comportamentais (declaradas)
@@ -38,5 +47,6 @@
 
 ## Diferenciais
 - Perfil híbrido operação + tecnologia (raro em perfis só comerciais ou só técnicos)
-- Vivência B2B + e-commerce + processos
+- Vivência em rotinas administrativas, logística, B2B e e-commerce
+- Conhecimentos de frete e Incoterms CIF/FOB aplicados ao acompanhamento ponta a ponta
 - Projeto autoral (Condstore OS) demonstrando inovação, automação e visão sistêmica

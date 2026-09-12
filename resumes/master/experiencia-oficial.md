@@ -1,6 +1,6 @@
 # Experiência Oficial — Caio Rafael Barros do Nascimento (FONTE MESTRA)
 
-> Atualizado a partir das informações fornecidas pelo Rafael (WhatsApp, 2026-09-11). Esta página é a base factual para todos os currículos derivados.
+> Atualizado a partir das informações fornecidas pelo Rafael (WhatsApp, 2026-09-12). Esta página é a base factual para todos os currículos derivados.
 > Regra: a redação pode ser aprimorada e o foco pode variar conforme a vaga, mas fatos, períodos e métricas devem permanecer fiéis a esta base. FATO = confirmado pelo Rafael; INFERÊNCIA/HIPÓTESE não devem ser apresentados como fatos.
 
 ## FASE 2 — Gestor de E-commerce e Operações Digitais
@@ -15,7 +15,7 @@
 - Estruturação e otimização de anúncios: cadastro de produtos, títulos, descrições, atributos, imagens, categorização e SEO, buscando maior visibilidade e conversão.
 - Gestão e evolução da presença da empresa no **Mercado Livre** (loja oficial, reputação, desempenho dos anúncios e experiência de compra).
 - Gestão de **CRM e e-mail marketing**.
-- Integração entre e-commerce, **ERP, pagamentos, frete, estoque e canais de atendimento**, reduzindo dependência de processos manuais e aumentando a autonomia do cliente.
+- Integração entre e-commerce, **ERP, pagamentos, frete, estoque e canais de atendimento**.
 - Gestão do fluxo completo do pedido: entrada da venda → faturamento → separação → expedição → entrega → pós-venda.
 - Análise de dados, comportamento de clientes e desempenho comercial para identificar oportunidades de aumento de conversão, vendas e eficiência operacional.
 - Estruturação de processos para **expansão nacional**, conectando a operação digital à logística e à capacidade de atendimento da empresa.
@@ -36,7 +36,7 @@
 - Estruturação e digitalização de processos de atendimento, orçamento e suporte às demandas comerciais, integrando WhatsApp, e-mail, telefone, site e canais digitais.
 - Uso do ERP LINVIX, da Tecmater Master, durante 3 anos, com posterior migração de processos para o Tiny, da Olist.
 - Uso do CRM da RD Station nos processos de relacionamento e comunicação, além de e-mail marketing.
-- No último ano da atuação na empresa, participação em licitações em nome da empresa, com domínio do sistema e dos processos de licitações eletrônicas; participação em pregões vencidos por meio da negociação com a lista de fornecedores da empresa.
+- No último ano da atuação na empresa, participação em licitações em nome da empresa e uso dos sistemas e processos de licitações eletrônicas; participação em pregões vencidos por meio da negociação com a lista de fornecedores da empresa.
 - Participação em prospecção e negociação B2B com condomínios, empresas privadas e órgãos públicos, incluindo negociações de até R$ 70 mil, sem que a venda fosse o foco principal da função.
 - Treinamento de colaboradores em atendimento, logística, plataformas e processos operacionais.
 
@@ -69,3 +69,8 @@
 - Negociações B2B até R$ 70 mil | contratos com transportadoras (cobertura nacional) | prospecção B2B.
 - Faturamento mensal da operação: evolução de ~R$ 300 mil para ~R$ 800 mil (uso restrito: versões e-commerce/operações).
 - Estágio Administração → CLT em 3 meses | treinamento de colaboradores | progressão interna até gestão de e-commerce.
+
+## PENDÊNCIAS DE CRONOLOGIA
+
+- Experiências anteriores à MG Vidros e entre MG Vidros/FLEX ainda não estão consolidadas nesta fonte mestra com datas exatas; não preencher por inferência.
+- O LinkedIn ainda contém referência a "aproximadamente 4 anos" na LojaCond; alinhar quando o perfil for otimizado.

@@ -1,6 +1,6 @@
 # EXPERIENCE.md — Histórico Profissional
 
-> Consolidado em 2026-09-11. Texto integral oficial em `resumes/master/experiencia-oficial.md` (FONTE MESTRA). A seleção e a ordem podem variar conforme a vaga, mas os fatos devem permanecer consistentes.
+> Consolidado em 2026-09-12. Texto integral oficial em `resumes/master/experiencia-oficial.md` (FONTE MESTRA). A seleção e a ordem podem variar conforme a vaga, mas os fatos devem permanecer consistentes.
 
 ## LojaCond Equipamentos para Condomínios — Palhoça/SC — Mar/2021 a Abr/2026
 **Formato confirmado: crescimento interno em duas fases, com ampliação contínua de responsabilidades.**
@@ -13,7 +13,7 @@
 - Conhecimentos técnicos de Incoterms **CIF e FOB**, contratos, tabelas e condições de transporte.
 - Uso do ERP **LINVIX, da Tecmater Master, durante 3 anos**, com posterior migração de processos para o **Tiny, da Olist**.
 - Uso do **CRM da RD Station** nos processos de relacionamento e comunicação, além de e-mail marketing.
-- No último ano da atuação na empresa, participação em licitações em nome da empresa, com domínio do sistema e dos processos de licitações eletrônicas; participação em pregões vencidos por meio da negociação com a lista de fornecedores da empresa.
+- No último ano da atuação na empresa, participação em licitações em nome da empresa e uso dos sistemas e processos de licitações eletrônicas; participação em pregões vencidos por meio da negociação com a lista de fornecedores da empresa.
 - Negociação com transportadoras e parceiros como etapa intermediária da consolidação dos processos administrativos e logísticos; apoio pontual a atendimento, orçamento e demandas comerciais.
 - Treinamento de colaboradores em atendimento, logística, plataformas e processos operacionais.
 
@@ -41,3 +41,4 @@
 ## Divergências e pendências
 - A atualização do Rafael substitui o marco anterior da transição LojaCond (Dez/2022) por **Out/2024**; a base atual passa a usar Out/2024.
 - LinkedIn cita "aproximadamente 4 anos" na LojaCond; a base atual registra Mar/2021–Abr/2026. Alinhar o LinkedIn quando ele for otimizado.
+- Experiências anteriores à MG Vidros e entre MG Vidros/FLEX ainda não estão consolidadas nesta base com datas exatas; não preencher por inferência.
